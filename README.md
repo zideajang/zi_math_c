@@ -1,2 +1,1 @@
-# zi_math_c
-更新 read me
+# 线性代数库
